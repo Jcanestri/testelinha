@@ -16,4 +16,4 @@ para rodar o programa você precisa:
 5) esperar o programa terminar de rodar. O arquivo "footage_line_test" vai ser criado 
 
 6) para visualizar as janelas com as etapas de processamento basta retirar os comentários no fim do arquivo LineDrawer.py
->>>>>>> e00049b9312406291ec0636ac7bb5073c5ad2adc
+
